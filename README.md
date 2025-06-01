@@ -39,3 +39,6 @@ Atmospheric data (humidity, pressure, wind, visibility)
 Sunrise/sunset times
 
 Built as a single-page application without external dependencies (except the weather API), this project serves as an excellent example of frontend development with real-world API consumption. The code follows best practices in structure and organization while maintaining readability.
+
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/39f39b8b-6d79-4f91-a7eb-5d410cf11b5a)

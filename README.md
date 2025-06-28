@@ -1,44 +1,63 @@
-# API-INTEGRATION
+# WeatherApp
 
-COMPANY: CODTECH IT SOLUTIONS
+**COMPANY:** CODTECH IT SOLUTIONS  
+**NAME:** GURAJALA LAASYAPRIYA  
+**INTERN ID:** CT06DF2182  
+**DOMAIN:** FULL STACK WEB DEVELOPMENT  
+**DURATION:** 6 WEEKS  
+**MENTOR:** NEELA SANTOSH
 
-NAME :GURAJALA LAASYAPRIYA
+---
 
-INTERN ID: CT06DF2182
+## DESCRIPTION
+A responsive web application that displays real-time weather information using the OpenWeatherMap API. This interactive dashboard provides current weather conditions, hourly forecasts, and a 5-day outlook with intuitive visual representations.
 
-DOMAIN: FULL STACK WEB DEVELOPMENT
+---
 
-DURATION: 6 WEEKS
+## FEATURES
+- Real-time weather updates for any city
+- Current temperature, weather condition, and icon
+- 5-day daily forecast
+- Hourly forecast for the next 24 hours
+- Sunrise and sunset times
+- Weather stats: pressure, humidity, wind speed, visibility
+- Responsive and modern UI
+- City search functionality
 
-MENTOR: NEELA SANTOSH
+---
 
-#DESCRIPTION
- A responsive web application that displays real-time weather information using the OpenWeatherMap API. This interactive dashboard provides current weather conditions, hourly forecasts, and a 5-day outlook with intuitive visual representations.
+## HOW TO RUN
+1. Clone the repository:
+   ```
+   git clone https://github.com/laasyapriya-web/WeatherApp.git
+   ```
+2. Open `index.html` in your web browser.
 
-🛠️ Technologies Used
-Frontend: HTML5, CSS3, JavaScript (ES6)
+---
 
-API: OpenWeatherMap (free tier)
+## TECHNOLOGIES USED
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- [OpenWeatherMap API](https://openweathermap.org/api)
 
-Icons: Weather Icons library
+---
 
-Design: Responsive layout with Flexbox
+## SCREENSHOT
+![WeatherApp Screenshot](https://user-images.githubusercontent.com/your-screenshot-url.png)
 
-Features: City search, dynamic weather icons, sunrise/sunset indicators
+---
 
-The application demonstrates clean API integration, DOM manipulation, and modern CSS techniques. It includes error handling for API requests and adapts to different screen sizes. The UI presents weather data through:
+## API REFERENCE
+- [OpenWeatherMap API Documentation](https://openweathermap.org/api)
 
-Current temperature and conditions
+---
 
-24-hour hourly forecast
+## CREDITS
+- Weather icons by [Weather Icons](https://erikflowers.github.io/weather-icons/)
+- Background image from Unsplash
 
-5-day extended forecast
+---
 
-Atmospheric data (humidity, pressure, wind, visibility)
-
-Sunrise/sunset times
-
-Built as a single-page application without external dependencies (except the weather API), this project serves as an excellent example of frontend development with real-world API consumption. The code follows best practices in structure and organization while maintaining readability.
-
-#OUTPUT:
-![Image](https://github.com/user-attachments/assets/39f39b8b-6d79-4f91-a7eb-5d410cf11b5a)
+## LICENSE
+This project is for educational and internship purposes at CODTECH IT SOLUTIONS.

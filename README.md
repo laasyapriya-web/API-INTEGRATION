@@ -44,7 +44,7 @@ A responsive web application that displays real-time weather information using t
 ---
 
 ## SCREENSHOT
-![WeatherApp Screenshot](https://user-images.githubusercontent.com/your-screenshot-url.png)
+![Image](https://github.com/user-attachments/assets/9f7804e1-c1bd-4796-ae59-a258f542a984)
 
 ---
 
